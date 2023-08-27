@@ -20,14 +20,17 @@
         <!-- Add more badges and skills as needed -->
     </div>
     <div style="flex: 1; padding: 10px;">
-  <h3>📫 How to reach me:</h3>
+      <h3> How to reach me: <span style="color:orange"> 🕽 </span></h3>
      
-  <a href="https://www.linkedin.com/in/farshadbadri/" target="_blank">
-      <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45" height="45" />
+ 
+  <a href="https://www.linkedin.com/in/farshadbadri" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white">
   </a>
-        
-  <a href="https://t.me/Farshadbadri" target="_blank">
-  <img width="42" height="42" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/>
+  <a href="https://medium.com/@yushabadri" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
+
+
+
 
 
