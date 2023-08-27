@@ -1,10 +1,9 @@
 
-
-
 <h2> Hi, I'm Farshad! </h2>
-<img src="assets/developer.gif" width="100%" style="border:1px solid #d0d7de;border-radius:4px">
-
-
+## My Professional skills 
+<div style="border:1px solid #d0d7de;border-radius:4px">
+  <img src="assets/developer.gif" width="100%" >
+</div>
 
 ### My Professional skills 🎓
 
