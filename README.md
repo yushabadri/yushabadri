@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Farshad! </h2>
-## My Professional skills 
+
 <div style="border:1px solid #d0d7de;border-radius:4px">
   <img src="assets/developer4.gif" width="100%" >
 </div>
@@ -8,12 +8,18 @@
 ### My Professional skills 🎓
 
 
-![](https://img.shields.io/badge/php-%2335495e.svg?plastic&logo=php&logoColor=white&labelColor=blue)
-![](https://img.shields.io/badge/laravel-%2335495e.svg?plastic&logo=laravel&logoColor=white&labelColor=%23FF2D20)
-![](https://img.shields.io/badge/linux-%2335495e.svg?plastic&logo=linux&logoColor=white&labelColor=orange)
-![](https://img.shields.io/badge/react-%2335495e.svg?plastic&logo=react&logoColor=white&labelColor=%234FC08D)
-![](https://img.shields.io/badge/docker-%2335495e.svg?plastic&logo=docker&logoColor=white&labelColor=blue)
-![](https://img.shields.io/badge/bootstrap-%2335495e.svg?plastic&logo=bootstrap&logoColor=white&labelColor=%23563D7C)
+![](https://img.shields.io/badge/PHP-%2335495e.svg?plastic&logo=php&logoColor=white&labelColor=blue)
+![](https://img.shields.io/badge/Laravel-%2335495e.svg?plastic&logo=laravel&logoColor=white&labelColor=%23FF2D20)
+![](https://img.shields.io/badge/Linux-%2335495e.svg?plastic&logo=linux&logoColor=white&labelColor=orange)
+![](https://img.shields.io/badge/Mysql-%2335495e.svg?plastic&logo=mysql&logoColor=white&labelColor=blue)
+![](https://img.shields.io/badge/GIT-%2335495e.svg?plastic&logo=git&logoColor=white&labelColor=orange)
+![](https://img.shields.io/badge/Docker-%2335495e.svg?plastic&logo=docker&logoColor=white&labelColor=blue)
+![](https://img.shields.io/badge/React-%2335495e.svg?plastic&logo=react&logoColor=white&labelColor=%234FC08D)
+![](https://img.shields.io/badge/Bootstrap-%2335495e.svg?plastic&logo=bootstrap&logoColor=white&labelColor=%23563D7C)
+![](https://img.shields.io/badge/HTML-%2335495e.svg?plastic&logo=html5&logoColor=white&labelColor=green)
+![](https://img.shields.io/badge/CSS-%2335495e.svg?plastic&logo=css3&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/JS-%2335495e.svg?plastic&logo=javascript&logoColor=white&labelColor=yellow)
+
 
 
 <br />
