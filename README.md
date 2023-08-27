@@ -1,18 +1,20 @@
-<img align='right' src=' ' width='200"'>
+
+
 
 <h2> Hi, I'm Farshad! </h2>
-<img src="assets/developer.gif" width="100%">
+<img src="assets/developer.gif" width="100%" style="border:1px solid #d0d7de;border-radius:4px">
 
-<br />
 
-#### My Professional skills 🎓
 
-|![](https://img.shields.io/badge/php-%23777BB4.svg?plastic&logo=php&logoColor=white&labelColor=grey)
-![](https://img.shields.io/badge/laravel-%23FF2D20.svg?plastic&logo=laravel&logoColor=white&labelColor=inactive)
-![](https://img.shields.io/badge/linux-%2335495e.svg?plastic&logo=linux&logoColor=white&labelColor=yellow)
-![](https://img.shields.io/badge/react-%230769AD.svg?plastic&logo=react&logoColor=white&labelColor=informational)
-![](https://img.shields.io/badge/docker-%2335495e.svg?plastic&logo=docker&logoColor=white&labelColor=%234FC08D)
-![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?plastic&logo=bootstrap&logoColor=white)
+### My Professional skills 🎓
+
+
+![](https://img.shields.io/badge/php-%2335495e.svg?plastic&logo=php&logoColor=white&labelColor=blue)
+![](https://img.shields.io/badge/laravel-%2335495e.svg?plastic&logo=laravel&logoColor=white&labelColor=%23FF2D20)
+![](https://img.shields.io/badge/linux-%2335495e.svg?plastic&logo=linux&logoColor=white&labelColor=orange)
+![](https://img.shields.io/badge/react-%2335495e.svg?plastic&logo=react&logoColor=white&labelColor=%234FC08D)
+![](https://img.shields.io/badge/docker-%2335495e.svg?plastic&logo=docker&logoColor=white&labelColor=blue)
+![](https://img.shields.io/badge/bootstrap-%2335495e.svg?plastic&logo=bootstrap&logoColor=white&labelColor=%23563D7C)
 
 
 <br />
