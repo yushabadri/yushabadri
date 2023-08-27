@@ -1,44 +1,20 @@
 <img align='right' src=' ' width='200"'>
 
-<h2> Hi, I'm Farshad! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-
-<p>
-
-
-
-
-  <em>
-    Software Engineer & Fullstack Developer <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="30">
-    </br>
-  </em>
-</p>
-
-
-
-
-<p>Its just a test</p>
-</br>
-<p> This is not about the specific framework or programming language, I like learning new frameworks and languages as well.
-There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very excited.</p>
+<h2> Hi, I'm Farshad! </h2>
+<img src="assets/developer.gif" width="100%">
 
 <br />
 
 #### My Professional skills 🎓
 
-|![](https://img.shields.io/badge/php-%23777BB4.svg?plastic&logo=php&logoColor=white&labelColor=grey)|
-![](https://img.shields.io/badge/laravel-%23FF2D20.svg?plastic&logo=laravel&logoColor=white&labelColor=inactive)|
-![](https://img.shields.io/badge/linux-%2335495e.svg?plastic&logo=linux&logoColor=white&labelColor=yellow)|
-![](https://img.shields.io/badge/react-%230769AD.svg?plastic&logo=react&logoColor=white&labelColor=informational)|
-![](https://img.shields.io/badge/docker-%2335495e.svg?plastic&logo=docker&logoColor=white&labelColor=%234FC08D)|
-
-![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?plastic&logo=bootstrap&logoColor=white)|
-
+|![](https://img.shields.io/badge/php-%23777BB4.svg?plastic&logo=php&logoColor=white&labelColor=grey)
+![](https://img.shields.io/badge/laravel-%23FF2D20.svg?plastic&logo=laravel&logoColor=white&labelColor=inactive)
+![](https://img.shields.io/badge/linux-%2335495e.svg?plastic&logo=linux&logoColor=white&labelColor=yellow)
+![](https://img.shields.io/badge/react-%230769AD.svg?plastic&logo=react&logoColor=white&labelColor=informational)
+![](https://img.shields.io/badge/docker-%2335495e.svg?plastic&logo=docker&logoColor=white&labelColor=%234FC08D)
+![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?plastic&logo=bootstrap&logoColor=white)
 
 
-|---|---|---|---|---|---|---|---|---|
-
-<br />
 <br />
 
 📫 How to reach me:
