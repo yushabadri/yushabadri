@@ -27,13 +27,14 @@
 📫 How to reach me:
 
 
-<a href="https://www.linkedin.com/in/farshad-badri/" target="_blank">
+<a href="https://www.linkedin.com/in/farshadbadri/" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45" height="45" />
  </a>
-
- 
- <a href="https://mail.google.com/mail/u/0/?fs=1&to=yushabadri@gmail.com&tf=cm" target="_blank">
-   <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest?cb=20201214214241" width="45" height="45"/>
+<a href="https://www.linkedin.com/in/farshadbadri/" target="_blank">
+<img width="45" height="45" src="https://img.icons8.com/fluency/45/instagram-new.png" alt="instagram-new"/>
+ </a>
+<a href="https://www.linkedin.com/in/farshadbadri/" target="_blank">
+<img width="32" height="32" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/52/external-cloud-based-instant-messaging-telegram-mobile-app-logotype-logo-shadow-tal-revivo.png" alt="external-cloud-based-instant-messaging-telegram-mobile-app-logotype-logo-shadow-tal-revivo"/>
  </a>
 
 <br />
