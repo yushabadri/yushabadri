@@ -30,11 +30,9 @@
 <a href="https://www.linkedin.com/in/farshadbadri/" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45" height="45" />
  </a>
-<a href="https://www.linkedin.com/in/farshadbadri/" target="_blank">
-<img width="45" height="45" src="https://img.icons8.com/fluency/45/instagram-new.png" alt="instagram-new"/>
- </a>
-<a href="https://www.linkedin.com/in/farshadbadri/" target="_blank">
-<img width="32" height="32" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/52/external-cloud-based-instant-messaging-telegram-mobile-app-logotype-logo-shadow-tal-revivo.png" alt="external-cloud-based-instant-messaging-telegram-mobile-app-logotype-logo-shadow-tal-revivo"/>
+
+<a href="https://t.me/Farshadbadri" target="_blank">
+<img width="42" height="42" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/>
  </a>
 
 <br />
