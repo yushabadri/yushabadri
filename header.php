@@ -5,7 +5,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <title>Farshad Badri Mardakhi - Backend Developer</title>
   <meta name="title" content="Farshad Badri Mardakhi - Backend Developer">
-  <meta name="description" content="Master of Computer Engineering Software, more than 8+ years of experience in web design and development, visit the website for more information.">
+  <meta name="description" content="Master of Computer Engineering Software, more than 7+ years of experience in web design and development, visit the website for more information.">
   <meta name="keywords" content="farshadbadri,web developer,web designer,farshad,website design in turkey,graphic designer,developer,software engineer,computer"> 
   <meta name="robots" content="index, follow">
   <meta name="language" content="English">

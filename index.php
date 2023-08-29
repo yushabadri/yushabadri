@@ -5,7 +5,7 @@
       <div class="table-cell">
         <div class="container">
           <p class="display-6 color-d">Software Engineer</p>
-          <h2 class="hero-title mb-4">Full-stack PHP Developer</h2>
+          <h2 class="hero-title mb-4">Senior Full Stack Developer</h2>
           <p class="hero-subtitle"><span class="typed" data-typed-items="Hello, Welcome to my website, This is my portfolio, you can review my works here"></span></p>
           <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4 portofolio-button" href="#work" role="button">My Portfolio</a></p>
         </div>
@@ -59,20 +59,11 @@
             <img src="<?php bloginfo('template_url'); ?>/assets/img/icons/icon-06.png" alt="HTML,CSS,JS"> 
           </div>
           <div class="col-3 col-md-sk-2 skill-item">
-            <img src="<?php bloginfo('template_url'); ?>/assets/img/icons/icon-07.png" alt="Python"> 
-          </div>
-          <div class="col-3 col-md-sk-2 skill-item">
-            <img src="<?php bloginfo('template_url'); ?>/assets/img/icons/icon-08.png" alt="Django"> 
-          </div>
-          <div class="col-3 col-md-sk-2 skill-item">
             <img src="<?php bloginfo('template_url'); ?>/assets/img/icons/icon-05.png" alt="WordPress"> 
           </div>
           <div class="col-3 col-md-sk-2 skill-item">
             <img src="<?php bloginfo('template_url'); ?>/assets/img/icons/icon-04.png" alt="Ubuntu"> 
           </div>
-          <div class="col-3 col-md-sk-2 skill-item">
-            <img src="<?php bloginfo('template_url'); ?>/assets/img/icons/icon-11.png" alt="Nginx"> 
-          </div> 
           <div class="col-3 col-md-sk-2 skill-item">
             <img src="<?php bloginfo('template_url'); ?>/assets/img/icons/icon-10.png" alt="Docker"> 
           </div>
@@ -335,9 +326,7 @@
                       <div class="socials">
                       <ul>
                         <li><a href="https://t.me/farshadbadri" target="blank"><span class="ico-circle"><i class="bi bi-telegram"></i></span></a></li>
-                        <li><a href="https://www.instagram.com/yushabadri/" target="blank"><span class="ico-circle"><i class="bi bi-instagram"></i></span></a></li>
-                        <li><a href="https://twitter.com/farshadbadri" target="blank"><span class="ico-circle"><i class="bi bi-twitter"></i></span></a></li>
-                        <li><a href="https://www.linkedin.com/in/farshad-badri/" target="blank"><span class="ico-circle"><i class="bi bi-linkedin"></i></span></a></li>
+                        <li><a href="https://www.linkedin.com/in/farshadbadri/" target="blank"><span class="ico-circle"><i class="bi bi-linkedin"></i></span></a></li>
                         <li><a href="https://github.com/yushabadri/" target="blank"><span class="ico-circle"><i class="bi bi-github"></i></span></a></li>
                       </ul>
                       </div>
