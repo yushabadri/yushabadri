@@ -1,5 +1,5 @@
 ## Hi, I'm Farshad!
-![Developer GIF](assets/developer5.gif)
+![Developer GIF](assets/developer.gif)
 
 <div style="display: flex;">
     <div style="flex: 1; padding: 10px;">
