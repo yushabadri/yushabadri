@@ -32,12 +32,8 @@
 
  
 <h3>My GitHub Stats 📊 </h3>
- 
-<a href="http://www.github.com/yushabadri"><img src="https://github-readme-stats.vercel.app/api?username=yushabadri&show_icons=true&hide=stars,issues,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="yushabadri's GitHub stats" /></a>
 
 <a href="http://www.github.com/yushabadri"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yushabadri&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/yushabadri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yushabadri&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
+ 
 
