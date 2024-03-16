@@ -1,16 +1,39 @@
-### Hi there 👋
+<h2> Hi, I'm Farshad! 👋 </h2>
 
-<!--
-**yushabadri/yushabadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 I'm constantly learning and staying updated on Backend technologies + DevOps tools
+- 💬 If you have questions about web development or any aspect of building web applications, don't hesitate to reach out.
 
-Here are some ideas to get you started:
+<h4> How to reach me: <span style="color:orange"> 🕽 </span></h4>   
+<a href="https://www.linkedin.com/in/farshadbadri" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.twitter.com/farshadbadri" target="_blank">
+<img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&&target=_blanklogoColor=white">
+</a>
+
+#### Backend Tech & Tools 🎓
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,nodejs,go,mysql,mongodb,docker,kubernetes,terraform)](https://skillicons.dev)
+
+#### Frontend Technologies 🎓
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,react,bootstrap)](https://skillicons.dev)
+
+<div style="display: flex;">
+    <div style="flex: 1; padding: 10px;">
+
+#### My GitHub Stats 📊
+<a href="http://www.github.com/yushabadri"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yushabadri&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+## Contribution
+
+If you have any suggestions or questions about the technologies and tools in my stack, feel free to open an issue or create a pull request. I'm always open to learning and expanding my knowledge.
+
+Thank you for visiting my GitHub profile!
+
+
+
+
+
+ 
+
