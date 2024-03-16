@@ -13,7 +13,7 @@
 </a>
 
 #### Backend Tech & Tools 🎓
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,nodejs,go,mysql,mongodb,docker,kubernetes,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,go,mysql,mongodb,docker,kubernetes,terraform)](https://skillicons.dev)
 
 #### Frontend Technologies 🎓
 [![My Skills](https://skillicons.dev/icons?i=js,jquery,react,bootstrap)](https://skillicons.dev)
