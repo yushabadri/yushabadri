@@ -20,10 +20,10 @@
 
 <div style="display: flex;">
     <div style="flex: 1; padding: 10px;">
-
+<!--
 #### My GitHub Stats 📊
 <a href="http://www.github.com/yushabadri"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yushabadri&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+-->
 
 ## Contribution
 
