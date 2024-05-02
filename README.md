@@ -12,11 +12,8 @@
 <img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&&target=_blanklogoColor=white">
 </a>
 
-#### Backend Tech & Tools 🎓
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,mongodb,docker,kubernetes)](https://skillicons.dev)
-
-#### Frontend Technologies 🎓
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,react,bootstrap)](https://skillicons.dev)
+#### Backend & Frontend Technologies 🎓
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,docker,kubernetes,js,jquery,react,bootstrap)](https://skillicons.dev)
 
 <div style="display: flex;">
     <div style="flex: 1; padding: 10px;">
@@ -30,10 +27,5 @@
 If you have any suggestions or questions about the technologies and tools in my stack, feel free to open an issue or create a pull request. I'm always open to learning and expanding my knowledge.
 
 Thank you for visiting my GitHub profile!
-
-
-
-
-
  
 
