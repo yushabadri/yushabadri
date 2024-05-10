@@ -1,6 +1,6 @@
 <h2> Hi, I'm Farshad! 👋 </h2>
 
-- 📚 I'm constantly learning and staying updated on Backend technologies + DevOps tools
+- 📚 I'm constantly learning and staying updated
 - 💬 If you have questions about web development or any aspect of building web applications, don't hesitate to reach out.
 
 <h4> How to reach me: <span style="color:orange"> 🕽 </span></h4>   
@@ -13,7 +13,7 @@
 </a>
 
 #### Backend & Frontend Technologies 🎓
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,docker,kubernetes,js,jquery,react,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,docker,js,react,jquery,bootstrap)](https://skillicons.dev)
 
 <div style="display: flex;">
     <div style="flex: 1; padding: 10px;">
@@ -23,7 +23,6 @@
 -->
 
 ## Contribution
-
 If you have any suggestions or questions about the technologies and tools in my stack, feel free to open an issue or create a pull request. I'm always open to learning and expanding my knowledge.
 
 Thank you for visiting my GitHub profile!
