@@ -1,9 +1,7 @@
 <h2> Hi, I'm Farshad! 👋 </h2>
 
-- 📚 I'm constantly learning and staying updated
-- 💬 If you have questions about web development or any aspect of building web applications, don't hesitate to reach out.
+<h4> From idea to execution <span  style="font-size:15px !important">  powered by code. </span></h4> 
 
-<h4> How to reach me: <span style="color:orange"> 🕽 </span></h4>   
 <a href="https://www.linkedin.com/in/farshadbadri" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white">
 </a>
