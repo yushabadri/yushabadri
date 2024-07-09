@@ -11,7 +11,7 @@
 </a>
 
 #### Backend & Frontend Technologies 🎓
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,react,bootstrap,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,react,next,js,bootstrap,docker)](https://skillicons.dev)
 
 <div style="display: flex;">
     <div style="flex: 1; padding: 10px;">
