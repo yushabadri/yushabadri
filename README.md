@@ -1,14 +1,15 @@
 <h2> Hi, I'm Farshad! 👋 </h2>
-
+<!--
 <h4> From idea to execution <span  style="font-size:15px !important">  powered by code. </span></h4> 
 
 <a href="https://www.linkedin.com/in/farshadbadri" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white">
-</a>
+</a> 
 
 <a href="https://www.twitter.com/farshadbadri" target="_blank">
 <img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&&target=_blanklogoColor=white">
 </a>
+-->
 
 #### Backend & Frontend Technologies 🎓
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,react,next,js,bootstrap,docker)](https://skillicons.dev)
