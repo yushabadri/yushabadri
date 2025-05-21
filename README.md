@@ -12,21 +12,18 @@
     <img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
   </a>
 </p>
-
----
+<h2 align="center">  </h2>
 
 ### 🛠 Technologies I Work With
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,js,bootstrap,mysql,python,docker,linux)](https://skillicons.dev)
 
 <img src="https://img.shields.io/badge/AI-Learner-informational?style=for-the-badge&logo=openai&logoColor=white&color=6e40c9" alt="AI Learner Badge">
-
----
+<h2 align="center">  </h2>
 
 ### 👨‍💻 About Me
 
 I'm a software engineer who enjoys building reliable, efficient, and scalable systems — from clean backend APIs to full-featured applications.  
-I work fluently across different stacks, languages, and platforms, and always stay curious about emerging technologies.
 
 - 🧠 Currently exploring: Artificial Intelligence, Python tools, and automation workflows  
 - 🧰 Regularly using: Laravel, Docker, Linux, MySQL, JavaScript, Bootstrap  
