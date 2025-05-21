@@ -1,29 +1,51 @@
-<h2> Hi, I'm Farshad! 👋 </h2>
+<h2 align="center">Hi, I'm Farshad! 👋</h2>
+
+<p align="center">
+  Software Engineer | AI Learner | Problem Solver
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/farshadbadri" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.twitter.com/farshadbadri" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+  </a>
+</p>
+
+---
+
+### 🛠 Technologies I Work With
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,bootstrap,mysql,python,docker,linux)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/AI-Learner-informational?style=for-the-badge&logo=openai&logoColor=white&color=6e40c9" alt="AI Learner Badge">
+
+---
+
+### 👨‍💻 About Me
+
+I'm a software engineer who enjoys building reliable, efficient, and scalable systems — from clean backend APIs to full-featured applications.  
+I work fluently across different stacks, languages, and platforms, and always stay curious about emerging technologies.
+
+- 🧠 Currently exploring: Artificial Intelligence, Python tools, and automation workflows  
+- 🧰 Regularly using: Laravel, Docker, Linux, MySQL, JavaScript, Bootstrap  
+- 💡 Also experienced in: API design, CLI tools, performance optimization  
+
 <!--
-<h4> From idea to execution <span  style="font-size:15px !important">  powered by code. </span></h4> 
+### 📊 GitHub Stats
 
-<a href="https://www.linkedin.com/in/farshadbadri" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white">
-</a> 
-
-<a href="https://www.twitter.com/farshadbadri" target="_blank">
-<img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&&target=_blanklogoColor=white">
-</a>
+<p align="center">
+  <a href="https://github.com/yushabadri">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yushabadri&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+</p>
 -->
 
-#### Backend & Frontend Technologies 🎓
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,react,next,js,bootstrap,docker)](https://skillicons.dev)
-
-<div style="display: flex;">
-    <div style="flex: 1; padding: 10px;">
 <!--
-#### My GitHub Stats 📊
-<a href="http://www.github.com/yushabadri"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yushabadri&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
- -->
-<!--
-## Contribution
-If you have any suggestions or questions about the technologies and tools in my stack, feel free to open an issue or create a pull request. I'm always open to learning and expanding my knowledge.
+## 🤝 Contributions Welcome
 
-Thank you for visiting my GitHub profile!
- -->
+If you have suggestions or want to collaborate, feel free to open an issue or send a pull request. I'm always happy to share ideas and learn from others.
+-->
 
+<p align="center">Thanks for visiting my profile! 🚀</p>
