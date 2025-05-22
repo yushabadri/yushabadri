@@ -6,8 +6,10 @@ I'm a software engineer who enjoys building reliable, efficient, and scalable sy
 - 💡 Also experienced in: API design, CLI tools, performance optimization  
 <h4>🛠 Technologies I Work With <br></h4>
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,bootstrap,mysql,python,docker,linux)](https://skillicons.dev)
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,bootstrap,docker,linux,python" />
+  <img src="ai.png" alt="AI" height="48" style="vertical-align: middle; margin-left: 6px;" />
+</p>
 <!--
 ### 📊 GitHub Stats
 
