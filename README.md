@@ -1,5 +1,5 @@
 <h2>Yusha Badri | Software Engineer  </h2>
-I'm a software engineer who enjoys building reliable, efficient, and scalable systems — from clean backend APIs to full-featured applications.  
+I'm a software engineer who enjoys building reliable, efficient, and scalable systems — from backend APIs to full-featured apps.  
 
 - 🧠 Currently exploring: AI, Machin Learning, and automation workflows  
 - 🧰 Regularly using: PHP, Laravel, Docker, Linux, MySQL, JavaScript, Bootstrap  
