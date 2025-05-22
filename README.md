@@ -4,7 +4,6 @@ I'm a software engineer who enjoys building reliable, efficient, and scalable sy
 - 🧠 Currently exploring: AI, Machin Learning, and automation workflows  
 - 🧰 Regularly using: PHP, Laravel, Docker, Linux, MySQL, JavaScript, Bootstrap  
 - 💡 Also experienced in: API design, CLI tools, performance optimization  
-<h2></h2>
 <h4>🛠 Technologies I Work With <br></h4>
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,js,bootstrap,mysql,python,docker,linux)](https://skillicons.dev)
