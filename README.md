@@ -5,7 +5,7 @@ I'm a software engineer who enjoys building reliable, efficient, and scalable sy
 - 🧰 Regularly using: PHP, Laravel, Docker, Linux, MySQL, JavaScript, Bootstrap  
 - 💡 Also experienced in: API design, CLI tools, performance optimization  
 <h2></h2>
-🛠 Technologies I Work With <br><br>
+<h4>🛠 Technologies I Work With <br></h4>
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,js,bootstrap,mysql,python,docker,linux)](https://skillicons.dev)
 
@@ -21,10 +21,4 @@ I'm a software engineer who enjoys building reliable, efficient, and scalable sy
 </p>
 -->
 
-<!--
-## 🤝 Contributions Welcome
 
-If you have suggestions or want to collaborate, feel free to open an issue or send a pull request. I'm always happy to share ideas and learn from others.
--->
-
-<p align="center">Thanks for visiting my profile! 🚀</p>
