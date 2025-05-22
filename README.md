@@ -8,8 +8,6 @@ I'm a software engineer who enjoys building reliable, efficient, and scalable sy
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,js,bootstrap,mysql,python,docker,linux)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/AI-Learner-informational?style=for-the-badge&logo=openai&logoColor=white&color=6e40c9" alt="AI Learner Badge">
-
 <!--
 ### 📊 GitHub Stats
 
